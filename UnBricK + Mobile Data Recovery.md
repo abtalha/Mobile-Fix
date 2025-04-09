@@ -3,7 +3,9 @@
  * Install Buggjeager :- https://play.google.com/store/apps/details?id=eu.sisik.hackendebug
  * Download available TWRP or custom recovery
  * Download fastboot Rom
-
+      ```
+         https://mifirm.net/model/phoenix.ttt
+      ```
    * Now Unzip FastBoot Rom And Copy All .img File In Internal Storage
 * Now Connect Brick Mobile with USB Cable another Mobile
   * Open Buggjeager Apps
