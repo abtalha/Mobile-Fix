@@ -45,5 +45,4 @@
     * Wipe Data + Reboot mobile Is Open
    
     
-   
-                                                                  ## THE END
+                                                       ## THE END
